@@ -1,0 +1,33 @@
+
+.navbar{
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    background: #cc2b5e;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #753a88, #cc2b5e);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #753a88, #cc2b5e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    border-radius: 15px;
+    padding: 10px 10px;
+
+}
+
+.logo{
+    width: 150px;
+}
+
+.categorias{
+    width: 60%;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    text-align: center;
+}
+
+a{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+}
+
