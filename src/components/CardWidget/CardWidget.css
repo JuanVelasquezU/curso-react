@@ -1,0 +1,25 @@
+.cart{
+    width: 60px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding-right: 10px;
+    
+   }
+
+.carrito{
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+    border: 4px solid white;
+    border-radius: 10px;
+}
+
+h2{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding-left: 15px;
+}

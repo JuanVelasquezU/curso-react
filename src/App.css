@@ -16,5 +16,10 @@ html,body{
   display: flex;
   justify-content: center;
   text-align: center;
+  flex-wrap: wrap;
+}
+
+.itemlist{
+  width: 100%;
 }
 

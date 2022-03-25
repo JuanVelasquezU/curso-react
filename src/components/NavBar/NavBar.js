@@ -1,6 +1,7 @@
 import React from 'react'
 import Logo from '../images/logo.png'
 import './NavBar.css'
+import Carrito from '../CardWidget/CardWidget'
 
 
 function NavBar(props) {
@@ -16,7 +17,13 @@ function NavBar(props) {
                 <a href='#'>Comunidades</a>
                 <a href='#'>Sobre Nosotros</a>
              </ul>
+
+             <Carrito />
+            
+           
+
         </div>
+        
 
 
     )}
