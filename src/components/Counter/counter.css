@@ -1,0 +1,20 @@
+
+.btn{
+    background: #076585;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fff, #076585);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, rgb(83, 200, 221), #076585); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    padding: 0px 10px 0px 10px;
+    border: solid 2px white;
+    border-radius: 2px;
+    color: white;
+}
+
+.counterCart{
+    display: flex;
+    justify-content: center;
+
+}
+
+.numero{
+    margin-right: 10px;
+}
